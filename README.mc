@@ -1,2 +1,0 @@
-# PushPress MCP
-
